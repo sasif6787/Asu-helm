@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  asif:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2026-11-19T10:31:27.465421329Z"
+    description: A Helm chart for Kubernetes
+    digest: b1933a7cd1368a3bcb965f80e58c234cd829f516620059c47c88efd3cdcc1c3a
+    name: asif
+    type: application
+    urls:
+    - asif-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-19T10:31:27.464143805Z"
